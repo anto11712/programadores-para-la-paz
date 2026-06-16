@@ -1,16 +1,16 @@
-El uso responsable de la información en internet, la participación ciudadana y el trabajo 
-técnico con herramientas como Git están profundamente relacionados entre sí.
-Cuando una persona verifica la información antes de compartirla, está ejerciendo una 
-forma de responsabilidad que también aplica al trabajo en equipo con código o archivos.
-Git, por ejemplo, obliga al programador a registrar cada cambio con un mensaje claro, 
-lo cual fomenta la transparencia y la trazabilidad, valores esenciales en la ciudadanía digital.
-Así como un ciudadano responsable no difunde noticias falsas, un desarrollador responsable no 
-sube cambios sin revisar su impacto en el proyecto colectivo.
-La participación ciudadana en internet requiere organización, criterio y ética, 
-exactamente las mismas cualidades que se necesitan para trabajar con control de versiones.
-GitHub, como plataforma pública, también es un espacio de convivencia digital donde se colabora, 
-se comenta y se construye junto a otros.
-Por eso, aprender a usar Git no es solo una habilidad técnica, sino también una práctica de orden, 
+El uso responsable de la informacion en internet, la participacion ciudadana y el trabajo tecnico con herramientas 
+como Git estan profundamente relacionados entre si.
+Cuando una persona verifica la informacion antes de compartirla, esta ejerciendo una forma de responsabilidad 
+que tambien aplica al trabajo en equipo con codigo o archivos.
+Git, por ejemplo, obliga al programador a registrar cada cambio con un mensaje claro, lo cual fomenta 
+la transparencia y la trazabilidad, valores esenciales en la ciudadania digital.
+Asi como un ciudadano responsable no difunde noticias falsas, un desarrollador responsable no sube cambios 
+sin revisar su impacto en el proyecto colectivo.
+La participacion ciudadana en internet requiere organizacion, criterio y etica, exactamente las mismas 
+cualidades que se necesitan para trabajar con control de versiones.
+GitHub, como plataforma publica, tambien es un espacio de convivencia digital donde se colabora, se comenta 
+y se construye junto a otros.
+Por eso, aprender a usar Git no es solo una habilidad tecnica, sino tambien una practica de orden, 
 responsabilidad y respeto hacia el trabajo propio y ajeno.
-En conclusión, ser un buen ciudadano digital y ser un buen programador comparten la misma base: 
-actuar con honestidad, verificar antes de publicar y contribuir positivamente al entorno compartido.
+En conclusion, ser un buen ciudadano digital y ser un buen programador comparten la misma base: actuar con 
+honestidad, verificar antes de publicar y contribuir positivamente al entorno compartido.
